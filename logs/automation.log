@@ -1,0 +1,18 @@
+13:23:43.444 [main] INFO  com.demowebshop.pages.SearchPage_TC3.SearchingProduct(SearchPage_TC3.java:37)oggger - **Searching with Product Name**
+13:23:43.566 [main] INFO  com.demowebshop.pages.SearchPage_TC3.SearchingProduct(SearchPage_TC3.java:40)oggger - **Clicking on Search Btn**
+13:23:48.652 [main] INFO  com.demowebshop.base.BaseClass.browserTearDown(BaseClass.java:161)oggger - Closing the Browser
+13:23:49.229 [main] INFO  com.demowebshop.base.BaseClass.browserSetUp(BaseClass.java:37)oggger - Browser setup started
+13:23:51.642 [main] INFO  com.demowebshop.base.BaseClass.browserSetUp(BaseClass.java:150)oggger - Getting DemoWebShop URL
+13:23:54.874 [main] INFO  com.demowebshop.pages.SearchPage_TC3.SearchingProduct(SearchPage_TC3.java:37)oggger - **Searching with Product Name**
+13:23:54.958 [main] INFO  com.demowebshop.pages.SearchPage_TC3.SearchingProduct(SearchPage_TC3.java:40)oggger - **Clicking on Search Btn**
+13:23:59.963 [main] INFO  com.demowebshop.base.BaseClass.browserTearDown(BaseClass.java:161)oggger - Closing the Browser
+13:24:00.600 [main] INFO  com.demowebshop.base.BaseClass.browserSetUp(BaseClass.java:37)oggger - Browser setup started
+13:24:03.060 [main] INFO  com.demowebshop.base.BaseClass.browserSetUp(BaseClass.java:150)oggger - Getting DemoWebShop URL
+13:24:06.291 [main] INFO  com.demowebshop.pages.SearchPage_TC3.SearchingProduct(SearchPage_TC3.java:37)oggger - **Searching with Product Name**
+13:24:06.382 [main] INFO  com.demowebshop.pages.SearchPage_TC3.SearchingProduct(SearchPage_TC3.java:40)oggger - **Clicking on Search Btn**
+13:24:11.403 [main] INFO  com.demowebshop.base.BaseClass.browserTearDown(BaseClass.java:161)oggger - Closing the Browser
+13:24:11.959 [main] INFO  com.demowebshop.base.BaseClass.browserSetUp(BaseClass.java:37)oggger - Browser setup started
+13:24:14.600 [main] INFO  com.demowebshop.base.BaseClass.browserSetUp(BaseClass.java:150)oggger - Getting DemoWebShop URL
+13:24:18.735 [main] INFO  com.demowebshop.pages.SearchPage_TC3.SearchingProduct(SearchPage_TC3.java:37)oggger - **Searching with Product Name**
+13:24:18.880 [main] INFO  com.demowebshop.pages.SearchPage_TC3.SearchingProduct(SearchPage_TC3.java:40)oggger - **Clicking on Search Btn**
+13:24:23.889 [main] INFO  com.demowebshop.base.BaseClass.browserTearDown(BaseClass.java:161)oggger - Closing the Browser
